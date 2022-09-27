@@ -7,3 +7,5 @@ description: "ArangoDB Kubernetes Operator"
 tillerVersion: ">2.7"
 
 appVersion: 3.5.0
+maintainers:
+  - name: Someone
